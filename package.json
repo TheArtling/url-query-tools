@@ -48,7 +48,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.3.13",
     "babel-plugin-transform-react-display-name": "^6.4.0",
     "babel-register": "^6.3.13",
-    "eslint": "^3.1.1",
+    "eslint": "^3.1.1"
   },
   "license": "MIT",
   "bugs": {
